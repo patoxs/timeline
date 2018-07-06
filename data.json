@@ -1,0 +1,156 @@
+[
+	{
+		"año": "1990",
+		"mes": "Enero",
+		"icono": "fa-cube",
+		"color": "amarillo",
+		"categoria": "Asesorías",
+		"monto": 1200000,
+		"actividad": "At vero eos et accusam",
+		"descripcion": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua, ugo consetetur Lorem Ipsum." 
+
+	},
+	{
+		"año": "1990",
+		"mes": "Febrero",
+		"icono": "fa-gavel",
+		"color": "verde",
+		"categoria": "Créditos",
+		"monto": 700000,
+		"actividad": "At vero eos et accusam",
+		"descripcion": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua, ugo consetetur Lorem Ipsum." 
+
+	},
+	{
+		"año": "1992",
+		"mes": "Septiembre",
+		"icono": "fa-flask",
+		"color": "cafe",
+		"categoria": "Deuda Flotante",
+		"monto": 859321,
+		"actividad": "At vero eos et accusam",
+		"descripcion": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua, ugo consetetur Lorem Ipsum." 
+
+	},
+	{
+		"año": "1992",
+		"mes": "Octubre",
+		"icono": "fa-cube",
+		"color": "amarillo",
+		"categoria": "Asesorías",
+		"monto": 57009,
+		"actividad": "At vero eos et accusam",
+		"descripcion": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua, ugo consetetur Lorem Ipsum." 
+
+	},
+	{
+		"año": "1995",
+		"mes": "Abril",
+		"icono": "fa-map-o",
+		"color": "rojo",
+		"categoria": "Emergencia",
+		"monto": 350400,
+		"actividad": "At vero eos et accusam",
+		"descripcion": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua, ugo consetetur Lorem Ipsum." 
+
+	},
+	{
+		"año": "1996",
+		"mes": "Mayo",
+		"icono": "fa-diamond",
+		"color": "celeste",
+		"categoria": "Inversiones",
+		"monto": 8360400,
+		"actividad": "At vero eos et accusam",
+		"descripcion": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua, ugo consetetur Lorem Ipsum." 
+
+	},
+	{
+		"año": "1997",
+		"mes": "Noviembre",
+		"icono": "fa-rss",
+		"color": "violeta",
+		"categoria": "Praderas",
+		"monto": 95363,
+		"actividad": "At vero eos et accusam",
+		"descripcion": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua, ugo consetetur Lorem Ipsum." 
+
+	},
+	{
+		"año": "1998",
+		"mes": "Febrero",
+		"icono": "fa-cube",
+		"color": "amarillo",
+		"categoria": "Asesorías",
+		"monto": 1200000,
+		"actividad": "At vero eos et accusam",
+		"descripcion": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua, ugo consetetur Lorem Ipsum." 
+
+	},
+	{
+		"año": "1998",
+		"mes": "Marzo",
+		"icono": "fa-gavel",
+		"color": "verde",
+		"categoria": "Créditos",
+		"monto": 80000,
+		"actividad": "At vero eos et accusam",
+		"descripcion": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua, ugo consetetur Lorem Ipsum." 
+
+	},
+	{
+		"año": "2001",
+		"mes": "Septiembre",
+		"icono": "fa-flask",
+		"color": "cafe",
+		"categoria": "Deuda Flotante",
+		"monto": 859321,
+		"actividad": "At vero eos et accusam",
+		"descripcion": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua, ugo consetetur Lorem Ipsum." 
+
+	},
+	{
+		"año": "2005",
+		"mes": "Enero",
+		"icono": "fa-cube",
+		"color": "amarillo",
+		"categoria": "Asesorías",
+		"monto": 574009,
+		"actividad": "At vero eos et accusam",
+		"descripcion": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua, ugo consetetur Lorem Ipsum." 
+
+	},
+	{
+		"año": "2009",
+		"mes": "Agosto",
+		"icono": "fa-map-o",
+		"color": "rojo",
+		"categoria": "Emergencia",
+		"monto": 350400,
+		"actividad": "At vero eos et accusam",
+		"descripcion": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua, ugo consetetur Lorem Ipsum." 
+
+	},
+	{
+		"año": "2015",
+		"mes": "Mayo",
+		"icono": "fa-diamond",
+		"color": "celeste",
+		"categoria": "Inversiones",
+		"monto": 8360400,
+		"actividad": "At vero eos et accusam",
+		"descripcion": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua, ugo consetetur Lorem Ipsum." 
+
+	},
+	{
+		"año": "2017",
+		"mes": "Noviembre",
+		"icono": "fa-rss",
+		"color": "violeta",
+		"categoria": "Praderas",
+		"monto": 95363,
+		"actividad": "At vero eos et accusam",
+		"descripcion": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua, ugo consetetur Lorem Ipsum." 
+
+	}
+]

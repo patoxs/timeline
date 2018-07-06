@@ -1,0 +1,151 @@
+body {
+	background: white;
+	color: #4F4F4F;
+}
+.timeline {
+	white-space: nowrap;
+	overflow: hidden;
+	width: calc(100% - 10px);
+	/*border:1px solid yellow;*/
+	background: url("img/chile-transparent.png") no-repeat fixed center; 
+}
+.timeline {
+	border: 1px solid #000;
+}
+.timeline ol {
+	position: relative;
+	left: 0;
+	padding-left: 0;
+}
+.timeline ol li {
+	position: relative;
+	display: inline-block;
+	list-style-type: none;
+	/*border-bottom: 5px solid white;*/
+	padding: 0px 25px 65px 25px;
+	width: 150px;
+	text-align: center;
+}
+
+.timeline ol li p {
+	white-space: normal;
+	word-break: break-all;
+}
+.timeline .fa {
+	-webkit-border-radius: 100%;
+	-moz-border-radius: 100%;
+	border-radius: 100%;
+	padding: 20px;
+	font-size: 4em;
+}
+.timeline ol li .line_vertical {
+	position: absolute;
+	width: 0;
+	border-style: solid;
+	top: calc(100% - 67px);
+	border-width: 8px 8px 0 0;
+	height: 60px;
+	left: calc(100% - 105px); 
+}
+time{
+	position: absolute;
+	bottom: -40px;
+	right: calc(100% - 65%);
+	font-size: 2em;
+	font-family: 'Encode Sans Condensed', sans-serif;
+	font-weight: 900;
+}
+h3 {
+	font-size: 1.1em;
+	text-transform: uppercase;
+	margin: 2px 5px 5px 5px;
+	font-family: 'Encode Sans Condensed', sans-serif;
+}
+h4 {
+	font-size: 0.8em;
+	font-weight: 900;
+	text-transform: uppercase;
+	margin: 2px;
+	font-family: 'Encode Sans Condensed', sans-serif;
+}
+p {
+	margin: 5px 5px 20px;
+	font-size: 0.8em;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.amarillo h3, 
+.amarillo h4, 
+.amarillo div.icon i.fa,
+.amarillo time {
+	color: #fdb700;
+}
+.amarillo div.line_vertical  {
+	border-color: #fdb700 #fdb700 transparent transparent;
+}
+.amarillo div.icon i.fa  {
+	border:3px solid #fdb700;
+}
+.verde h3,
+.verde h4, 
+.verde div.icon i.fa,
+.verde time {
+	color: #95b901;
+}
+.verde div.line_vertical  {
+	border-color: #95b901 #95b901 transparent transparent;
+}
+.verde div.icon i.fa  {
+	border:3px solid #95b901;
+}
+.rojo h3, 
+.rojo h4,
+.rojo div.icon i.fa,
+.rojo time {
+	color: #fd3d00;
+}
+.rojo div.line_vertical  {
+	border-color: #fd3d00 #fd3d00 transparent transparent;
+}
+.rojo div.icon i.fa  {
+	border:3px solid #fd3d00;
+}
+.celeste h3, 
+.celeste h4,
+.celeste div.icon i.fa,
+.celeste time {
+	color: #00b4e1;
+}
+.celeste div.line_vertical  {
+	border-color: #00b4e1 #00b4e1 transparent transparent;
+}
+.celeste div.icon i.fa  {
+	border:3px solid #00b4e1;
+}
+.violeta h3,
+.violeta h4, 
+.violeta div.icon i.fa,
+.violeta time {
+	color: #ba006d;
+}
+.violeta div.line_vertical  {
+	border-color: #ba006d #ba006d transparent transparent;
+}
+.violeta div.icon i.fa  {
+	border:3px solid #ba006d;
+}
+.cafe h3,
+.cafe h4, 
+.cafe div.icon i.fa,
+.cafe time {
+	color: #692526;
+}
+.cafe div.line_vertical  {
+	border-color: #692526 #692526 transparent transparent;
+}
+.cafe div.icon i.fa  {
+	border:3px solid #692526;
+}
+
+
+
